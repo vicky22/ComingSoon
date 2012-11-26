@@ -1,1 +1,1 @@
-e.g. http://samuelgbrown.github.com/comingsoon
+e.g. http://samuelgbrown.github.com/ComingSoon
